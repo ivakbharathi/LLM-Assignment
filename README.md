@@ -1,5 +1,8 @@
 #  Multi-Label Ingredient Classification with BERT
 
+ **Colab Notebook Link**: [Open in Google Colab](https://colab.research.google.com/drive/1KJmsDEDuxPUk_R7l76fENbQ7LLtXUgrR?usp=sharing)
+
+
 #Project Overview
 
 This project focuses on **multi-label text classification** using a pre-trained BERT model. 
